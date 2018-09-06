@@ -13,10 +13,6 @@
 			"Name": "ExtendedFacebook",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/99b4e461aa384ff2abf8cdbc6986c633"
-		},
-		{
-			"Name": "gameDNAinstaller",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
