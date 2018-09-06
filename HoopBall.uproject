@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UniversalMobileAds",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aa6f88dd5af84fbd9771a38b33fb5044"
+		},
+		{
+			"Name": "ExtendedFacebook",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/99b4e461aa384ff2abf8cdbc6986c633"
+		},
+		{
+			"Name": "gameDNAinstaller",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
+	]
+}

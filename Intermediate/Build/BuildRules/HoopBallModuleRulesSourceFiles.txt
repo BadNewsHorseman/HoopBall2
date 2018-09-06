@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+L:\coded projects\HoopBall\Intermediate\Source\HoopBall.Build.cs
+L:\coded projects\HoopBall\Intermediate\Source\HoopBall.Target.cs
+=======
+D:\GitHub\HoopBall\Intermediate\Source\HoopBall.Build.cs
+D:\GitHub\HoopBall\Intermediate\Source\HoopBall.Target.cs
+>>>>>>> 9e7248293438c0f7fff83eb527e3ecc17840b517
